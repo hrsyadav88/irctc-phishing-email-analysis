@@ -17,7 +17,6 @@ To: john[.]doe@mybusiness[.]com
 
 ## 🧰 Techniques Used
 - WHOIS Lookup: Checked domain registration of the sender email and found it unaffiliated with IRCTC
-- Email Header Analysis: Identified discrepancies in domain origin and sending server
 - VirusTotal: QR code link was extracted and scanned for malicious intent
 - Google Search: Verified that IRCTC does not use QR codes for refund processing
 - General Awareness: Applied known phishing detection principles including urgency, grammar cues, and visual formatting
