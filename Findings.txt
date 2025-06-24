@@ -1,0 +1,21 @@
+Vulnerabilities Identified in IRCTC Phishing Email:
+
+1. Spoofed Domain: "irctc-helpdesk@securesupportcloud[.]com" mimics a legitimate IRCTC helpdesk email.
+
+2. Bait Amount: A false claim of a ₹4,240 refund is used to lure the recipient into taking quick action.
+
+3. QR Code Exploit: The QR code may redirect to a phishing site or initiate a harmful action on the device.
+
+4. Urgency Pressure: The message emphasizes urgency ("expires in 2 business days") to prompt hasty decisions.
+
+5. Generic Addressing: No mention of the recipient’s name, making it clearly mass-targeted.
+
+6. Lack of IRCTC Branding Protocol: Uses unofficial design elements and lacks verified security signatures or footer links.
+
+7. Absence of Contact Information: No verifiable IRCTC support phone number, address, or link to the official website.
+
+8. Inconsistent Metadata: Display name and email domain do not match IRCTC’s authenticated sender details.
+
+9. Unusual Format: Legitimate IRCTC communications do not request verification via QR code.
+
+10. No Email Authentication: Missing DKIM/SPF records confirm the sender is unauthenticated and likely malicious.
